@@ -1,3 +1,4 @@
+![logo](https://github.com/Aryanvimal464/Aryanvimal464/blob/main/phtot.png)
 <!-- ===================== PROFILE PHOTO ===================== -->
 
 <p align="center">
