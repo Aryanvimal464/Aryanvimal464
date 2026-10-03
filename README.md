@@ -1,6 +1,18 @@
 <!-- ========================================================= -->
-<!--                     ARYAN VIMAL                          -->
+<!--                    ARYAN VIMAL PROFILE                    -->
 <!-- ========================================================= -->
+
+<!-- ======================= BANNER ========================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Aryan%20Vimal&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=QA%20Analyst%20%7C%20Software%20Testing%20%7C%20QA%20Automation&descAlignY=60&descSize=18"
+    width="100%"
+    alt="Aryan Vimal Banner"
+  />
+</p>
+
+<!-- ======================= INTRO =========================== -->
 
 <h1 align="center">Hi 👋, I'm Aryan Vimal</h1>
 
@@ -9,44 +21,71 @@ QA Analyst | Software Testing | QA Automation | Selenium | Python
 </h3>
 
 <p align="center">
-B.Tech CSE (Data Science & AI) | 3 Months QA Analyst Experience
+B.Tech CSE (Data Science & AI) • 3 Months QA Analyst Experience
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aryanvimal464">
-    <img src="https://img.shields.io/badge/GitHub-Aryanvimal464-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/dataaryan">
-    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Vimal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:aryanvimal212@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+
+<img src="https://img.shields.io/badge/QA%20ANALYST-2F80ED?style=for-the-badge">
+<img src="https://img.shields.io/badge/SOFTWARE%20TESTING-198754?style=for-the-badge">
+<img src="https://img.shields.io/badge/QA%20AUTOMATION-6F42C1?style=for-the-badge">
+<img src="https://img.shields.io/badge/SELENIUM-PYTHON-43B02A?style=for-the-badge">
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Aryanvimal464">
+<img src="https://img.shields.io/badge/GitHub-Aryanvimal464-181717?style=flat-square&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/dataaryan">
+<img src="https://img.shields.io/badge/LinkedIn-Aryan%20Vimal-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:aryanvimal212@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a QA Analyst and B.Tech Computer Science student interested in
-Software Testing, Quality Assurance and QA Automation.
+<p align="center">
+I am a QA Analyst and B.Tech Computer Science student focused on
+Software Testing, Quality Assurance and Test Automation.
+</p>
 
-- 🧪 3 months of QA Analyst experience
-- 🔍 Manual and Functional Testing
-- 🤖 QA Automation with Selenium and Python
-- 🧪 PyTest and Page Object Model
-- 🌐 Web and API Testing
-- 🗄️ SQL and MySQL
-- 🐞 Test Case Design and Bug Reporting
-- 📋 Test Management and Documentation
-- 🔄 Regression, Smoke and Sanity Testing
-- 🤖 Exploring AI-Assisted Software Testing
+<p align="center">
+
+🧪 Manual Testing &nbsp; • &nbsp;
+🤖 QA Automation &nbsp; • &nbsp;
+🌐 API Testing &nbsp; • &nbsp;
+🗄️ SQL &nbsp; • &nbsp;
+🐞 Bug Reporting &nbsp; • &nbsp;
+🤖 AI-Assisted QA
+
+</p>
+
+### What I Do
+
+- 🧪 Design and execute manual test cases
+- 🔍 Perform functional, regression, smoke and sanity testing
+- 🤖 Build Selenium automation using Python
+- 🧩 Work with PyTest and Page Object Model
+- 🌐 Test REST APIs using Postman
+- 🗄️ Validate backend data using SQL/MySQL
+- 🐞 Identify, document and verify defects
+- 📋 Prepare test scenarios and test documentation
+- 🤖 Explore AI-assisted software testing
 
 ---
 
 # 💼 QA Experience
 
-### QA Analyst Intern — Sysculus Systems Pvt. Ltd.
+### 🧪 QA Analyst Intern — Sysculus Systems Pvt. Ltd.
 
 **Jun 2026 – Present**
 
@@ -64,46 +103,52 @@ Software Testing, Quality Assurance and QA Automation.
 
 # 🛠️ Tech Stack
 
-## 🧪 Software Testing
+<p align="center">
+<b>Core Testing</b>
+</p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Manual%20Testing-2F80ED?style=for-the-badge">
 <img src="https://img.shields.io/badge/Functional%20Testing-2F80ED?style=for-the-badge">
-<img src="https://img.shields.io/badge/Regression%20Testing-2F80ED?style=for-the-badge">
-<img src="https://img.shields.io/badge/Smoke%20Testing-2F80ED?style=for-the-badge">
-<img src="https://img.shields.io/badge/Sanity%20Testing-2F80ED?style=for-the-badge">
-<img src="https://img.shields.io/badge/Exploratory%20Testing-2F80ED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Regression-2F80ED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Smoke-2F80ED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sanity-2F80ED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Exploratory-2F80ED?style=for-the-badge">
 
 </p>
 
-## 🤖 QA Automation
+<p align="center">
+<b>QA Automation</b>
+</p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge">
-<img src="https://img.shields.io/badge/Page%20Object%20Model-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/POM-6C63FF?style=for-the-badge">
 <img src="https://img.shields.io/badge/XPath-FF9800?style=for-the-badge">
-<img src="https://img.shields.io/badge/Assertions-795548?style=for-the-badge">
 
 </p>
 
-## 🌐 API & Database Testing
+<p align="center">
+<b>API & Database</b>
+</p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge">
-<img src="https://img.shields.io/badge/HTTP%20Methods-607D8B?style=for-the-badge">
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
 
 </p>
 
-## 🔧 Tools
+<p align="center">
+<b>Tools</b>
+</p>
 
 <p align="center">
 
@@ -135,47 +180,87 @@ Requirement Analysis
 
 ---
 
-# 🚀 Featured QA Projects
+# 🚀 Featured Projects
+
+<p align="center">
+<b>QA • Testing • Automation • AI-Assisted Software Testing</b>
+</p>
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🛒 E-Commerce Automation</h3>
+<h3>🛒 Selenium E-Commerce Automation</h3>
 
 <p>
-Selenium Python automation framework for e-commerce workflows.
+Python Selenium automation framework for testing important e-commerce workflows.
 </p>
 
 <ul>
-<li>Login</li>
+<li>Login & Registration</li>
 <li>Product Search</li>
 <li>Shopping Cart</li>
 <li>Checkout</li>
 <li>Order Flow</li>
-<li>Assertions</li>
+<li>XPath</li>
 <li>Explicit Waits</li>
+<li>Assertions</li>
 <li>Page Object Model</li>
 </ul>
 
 <p>
-<code>Python</code>
-<code>Selenium</code>
-<code>PyTest</code>
-<code>POM</code>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square">
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square">
+
 </p>
 
-<p>
 <a href="https://github.com/Aryanvimal464/selenium-python-ecommerce-automation">
 🔗 View Repository →
 </a>
-</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
+<h3>🤖 AI Bug Triage Agent</h3>
+
+<p>
+AI-assisted QA project for automatically analyzing and triaging software bugs.
+</p>
+
+<ul>
+<li>Bug Classification</li>
+<li>Severity Detection</li>
+<li>Module Detection</li>
+<li>Duplicate Detection</li>
+<li>AI-Assisted Bug Triage</li>
+<li>Test Evaluation</li>
+<li>Streamlit Interface</li>
+</ul>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square">
+<img src="https://img.shields.io/badge/AI-6F42C1?style=flat-square">
+<img src="https://img.shields.io/badge/QA-2F80ED?style=flat-square">
+
+</p>
+
+<a href="https://github.com/Aryanvimal464/ai-bug-triage-agent">
+🔗 View Repository →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 <h3>🏦 FinSecure Bank Testing</h3>
 
@@ -184,38 +269,35 @@ Banking application testing project covering functional and API testing.
 </p>
 
 <ul>
-<li>Login Authentication</li>
+<li>Authentication Testing</li>
 <li>Balance Validation</li>
 <li>Transactions</li>
-<li>Input Validation</li>
-<li>API Testing</li>
 <li>Negative Testing</li>
+<li>API Validation</li>
+<li>Backend Validation</li>
+<li>PyTest</li>
 </ul>
 
 <p>
-<code>API Testing</code>
-<code>SQL</code>
-<code>PyTest</code>
+
+<img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=flat-square">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square">
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square">
+
 </p>
 
-<p>
 <a href="https://github.com/Aryanvimal464/finsecure-bank">
 🔗 View Repository →
 </a>
-</p>
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>🎓 Campus Queue</h3>
 
 <p>
-Campus queue management application with testing coverage.
+Campus queue management application with QA and web testing coverage.
 </p>
 
 <ul>
@@ -224,38 +306,15 @@ Campus queue management application with testing coverage.
 <li>Token Generation</li>
 <li>Staff Operations</li>
 <li>Admin Management</li>
-<li>Validation Testing</li>
+<li>Input Validation</li>
 </ul>
 
 <p>
-<code>Web Testing</code>
-<code>JavaScript</code>
-<code>Automation</code>
-</p>
 
-</td>
+<img src="https://img.shields.io/badge/Web%20Testing-2F80ED?style=flat-square">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/QA-198754?style=flat-square">
 
-<td width="50%">
-
-<h3>🤖 AI-Assisted QA Testing</h3>
-
-<p>
-AI-assisted software testing workflow for improving QA activities.
-</p>
-
-<ul>
-<li>Test Case Generation</li>
-<li>Test Scenario Generation</li>
-<li>Test Execution</li>
-<li>Bug Detection</li>
-<li>Bug Reporting</li>
-<li>Test Reporting</li>
-</ul>
-
-<p>
-<code>AI</code>
-<code>QA</code>
-<code>Automation</code>
 </p>
 
 </td>
@@ -266,17 +325,51 @@ AI-assisted software testing workflow for improving QA activities.
 
 ---
 
-# 🎯 Areas of Expertise
+# 🧪 QA Automation Focus
 
-| Area | Skills |
-|---|---|
-| 🧪 Manual Testing | Functional, Regression, Smoke, Sanity, Exploratory |
-| 🤖 QA Automation | Selenium, Python, PyTest, POM |
-| 🌐 API Testing | REST API, HTTP Methods, JSON, Postman |
-| 🗄️ Database Testing | SQL, MySQL, Backend Validation |
-| 🐞 Defect Management | Bug Reporting, Verification, Retesting |
-| 📋 Test Documentation | Test Cases, Test Scenarios, Test Reports |
-| 🤖 AI-Assisted QA | AI Test Case Generation, QA Automation |
+<table>
+
+<tr>
+<th>Area</th>
+<th>What I Work With</th>
+</tr>
+
+<tr>
+<td>🧪 Manual Testing</td>
+<td>Functional, Regression, Smoke, Sanity, Exploratory</td>
+</tr>
+
+<tr>
+<td>🤖 UI Automation</td>
+<td>Selenium WebDriver, Python, PyTest, XPath, POM</td>
+</tr>
+
+<tr>
+<td>🌐 API Testing</td>
+<td>Postman, REST API, HTTP Methods, JSON</td>
+</tr>
+
+<tr>
+<td>🗄️ Database Testing</td>
+<td>SQL, MySQL, Backend Validation</td>
+</tr>
+
+<tr>
+<td>🐞 Defect Management</td>
+<td>Bug Reporting, Retesting, Verification</td>
+</tr>
+
+<tr>
+<td>📋 Test Documentation</td>
+<td>Test Cases, Test Scenarios, Test Reports</td>
+</tr>
+
+<tr>
+<td>🤖 AI-Assisted QA</td>
+<td>AI Test Case Generation, Bug Triage, QA Workflows</td>
+</tr>
+
+</table>
 
 ---
 
@@ -324,7 +417,7 @@ alt="Most Used Languages">
 
 <img
 src="https://streak-stats.demolab.com/?user=Aryanvimal464&hide_border=true"
-width="70%"
+width="75%"
 alt="GitHub Contribution Streak">
 
 </p>
@@ -338,7 +431,7 @@ alt="GitHub Contribution Streak">
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanvimal464&theme=github-compact&hide_border=true&area=true"
 width="100%"
-alt="GitHub Activity Graph">
+alt="Activity Graph">
 
 </p>
 
@@ -383,21 +476,33 @@ alt="GitHub Contribution Snake">
 
 ---
 
-# 📫 Contact Me
+# 📫 Let's Connect
 
 <p align="center">
 
-<a href="mailto:aryanvimal212@gmail.com">
-<img src="https://img.shields.io/badge/Email-aryanvimal212%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+Open to QA Analyst, Software Testing and QA Automation opportunities.
+
+</p>
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/dataaryan">
-<img src="https://img.shields.io/badge/LinkedIn-Aryan%20Vimal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-ARYAN%20VIMAL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:aryanvimal212@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-ARYANVIMAL212%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/Aryanvimal464">
-<img src="https://img.shields.io/badge/GitHub-Aryanvimal464-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-ARYANVIMAL464-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AVAILABLE%20FOR-QA%20%7C%20TESTING%20%7C%20QA%20AUTOMATION-2F80ED?style=for-the-badge">
 
 </p>
 
@@ -406,13 +511,20 @@ alt="GitHub Contribution Snake">
 <p align="center">
 
 <b>
-QA Analyst • QA Automation • Software Testing • Selenium • Python
+QA Analyst • Software Testing • QA Automation • Selenium • Python
 </b>
 
 </p>
 
 <p align="center">
-
 ⭐ Thanks for visiting my GitHub profile! ⭐
+</p>
 
+<!-- ======================== FOOTER ========================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer"
+    width="100%"
+  />
 </p>
